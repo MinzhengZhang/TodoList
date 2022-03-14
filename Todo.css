@@ -1,0 +1,13 @@
+.todo_list{
+    display:flex;
+    align-items: center; 
+    margin-bottom: 5px !important;
+    width: 100%;
+    
+}
+
+#ListText{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
